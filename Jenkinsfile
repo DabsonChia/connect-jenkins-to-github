@@ -1,31 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@DabsonChia 
-LinkedInLearning
-/
-essential-jenkins-2468076
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-essential-jenkins-2468076/Ch03/03_02-connect-jenkins-to-github/Jenkinsfile
-@managedkaos
-managedkaos Add files for 03_02
-Latest commit e8e06be on Mar 16
- History
- 1 contributor
-61 lines (52 sloc)  1.67 KB
-
 pipeline {
     agent any
 
@@ -87,18 +59,3 @@ pipeline {
         }
     }
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-You have no unread notifications
